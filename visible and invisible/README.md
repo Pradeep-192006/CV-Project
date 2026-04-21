@@ -52,8 +52,7 @@ Controls:
 Press ESC → Exit
 
 Output Video
-Download video here:
-https://github.com/Pradeep-192006/CV-Project/raw/main/visible-and-invisible/output%20(4).mp4
+🎥 Download video here: https://github.com/Pradeep-192006/CV-Project/raw/main/visible%20and%20invisible/output%20(4).mp4
 
 ⚠️ Notes
 Ensure good lighting
