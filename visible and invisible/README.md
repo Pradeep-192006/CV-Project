@@ -51,6 +51,10 @@ Controls:
 👇 Hand Down → Visible
 Press ESC → Exit
 
+Output Video
+Download video here:
+https://github.com/Pradeep-192006/CV-Project/raw/main/visible-and-invisible/output.mp4
+
 ⚠️ Notes
 Ensure good lighting
 Stay still during background capture
